@@ -31,3 +31,15 @@ elif jugador == "tijera" :
 elif jugador == "papel":
     papel()
 
+pritn('''
+    A____A
+    |・ㅅ・|
+    |っ　ｃ|
+    |　　　|
+    |　　　|
+    |　　　|
+    |　　　|
+    |　　　|
+    U￣￣U
+ ''')
+
