@@ -31,7 +31,7 @@ elif jugador == "tijera" :
 elif jugador == "papel":
     papel()
 
-pritn('''
+print('''
     A____A
     |・ㅅ・|
     |っ　ｃ|
